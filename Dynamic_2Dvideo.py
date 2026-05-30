@@ -14,9 +14,9 @@ from PIL import Image, ImageDraw, ImageFont
 # -----------------------------------------------------
 # USER INPUT
 # -----------------------------------------------------
-OUTPUT_ROOT  = Path(r"C:\Users\rakel\OneDrive - University of Bergen\Master\NaCl exp")
-#DICOM_FOLDER = Path(r"C:\Users\rakel\OneDrive - University of Bergen\Master\NaCl_CO2_hydrates_pt2\37\pdata\1\dicom")
-DICOM_FOLDER = Path(r"C:\Users\rakel\OneDrive - University of Bergen\Master\CO2_hydrates_part1\2025_06_CO2_hydrate\MRI_scan_data\55\pdata\1\dicom")
+OUTPUT_ROOT  = Path(r"C:\Users...")
+#DICOM_FOLDER = Path(r"C:\Users...")
+DICOM_FOLDER = Path(r"C:\Users\...")
 FIRST_SLICE_NUMBER = 15
 #STEP = 25
 STEP = 33
